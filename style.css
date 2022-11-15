@@ -86,10 +86,7 @@ body
     display: flex;
     justify-content: space-evenly;
 }
-.footer div
-{
-    /* width: 33%; */
-}
+
 
 .footer p
 {
